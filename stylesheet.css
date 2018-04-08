@@ -1,8 +1,5 @@
-li {
-  color: #444;
-}
+/* body要素のfont-familyを"Avenir Next"にしてください */
 
-/* selectedの文字の色を#ff0000にしてください */
-.selected {
-  color: #ff0000;
+.body {
+  font-family: "Avenir Next";
 }
