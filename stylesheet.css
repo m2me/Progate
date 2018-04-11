@@ -43,23 +43,24 @@ li {
   color: #ff4a4a;
 }
 
-/* contentsのheightを500pxにしてください */
-
 .contents {
   height: 500px;
+  /* margin-topを100pxにしてください */
 }
-
-/* section-titleのborder-bottomを指定してください */
 
 .section-title {
   border-bottom: 2px solid #dee7ec;
+  /* font-sizeを28pxにしてください */
+  /* padding-bottomを15pxにしてください */
+  /* margin-bottomを50pxにしてください */
 }
-
-/* contents-itemのfloatプロパティをleftにしてください */
 
 .contents-item {
   float: left;
+  /* margin-rightを40pxにしてください */
 }
+
+/* contents-itemの中のp要素のfont-size、margin-topを指定してください */
 
 .footer {
   background-color: #2f5167;
