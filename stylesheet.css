@@ -43,6 +43,12 @@ li {
   color: #ff4a4a;
 }
 
+/* contentsのheightを500pxにしてください */
+
+/* section-titleのborder-bottomを指定してください */
+
+/* contents-itemのfloatプロパティをleftにしてください */
+
 .footer {
   background-color: #2f5167;
   color: #fff;
