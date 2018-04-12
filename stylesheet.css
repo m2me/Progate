@@ -65,11 +65,13 @@ li {
   margin-top: 30px;
 }
 
-/* contact-formのpadding-topを100pxにしてください */
-
 .contact-form {
   padding-top: 100px;
 }
+
+/* inputとtextareaのCSSを指定してください */
+
+/* contact-submitのCSSを指定してください */
 
 .footer {
   background-color: #2f5167;
