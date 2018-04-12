@@ -67,6 +67,10 @@ li {
 
 /* contact-formのpadding-topを100pxにしてください */
 
+.contact-form {
+  padding-top: 100px;
+}
+
 .footer {
   background-color: #2f5167;
   color: #fff;
