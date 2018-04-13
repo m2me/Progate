@@ -11,15 +11,14 @@ a {
 
 .container {
   width: 1170px;
-  padding: 15px;
+  padding: 0 15px;
   margin: 0 auto;
 }
 
 /* top-wrapperクラスのCSSを指定してください */
 
 .top-wrapper {
-  padding-top: 180px;
-  padding-bottom: 100px;
+  padding: 180px 0 100px 0;
   background-image: url(https://prog-8.com/images/html/advanced/top.png);
   color: white;
   background-size: cover;
