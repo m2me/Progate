@@ -65,3 +65,7 @@ a {
 }
 
 /* faクラスのmargin-rightを5pxに指定してください */
+
+.fa {
+  margin-right: 5px;
+}
