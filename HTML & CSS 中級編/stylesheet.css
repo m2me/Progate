@@ -68,17 +68,19 @@ a {
   margin-right: 5px;
 }
 
-/* <header>のCSSを指定してください */
-
 header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
 }
 
-/* logoクラスのCSSを指定してください */
-
 .logo {
   width: 124px;
   margin-top: 20px;
 }
+
+/* header-leftクラスのCSSを指定してください */
+
+/* header-rightクラスのCSSを指定してください */
+
+/* header-rightクラスにhoverしたときのCSSを指定してください */
