@@ -81,6 +81,19 @@ header {
 
 /* header-leftクラスのCSSを指定してください */
 
+.header-left {
+  float: left;
+}
+
 /* header-rightクラスのCSSを指定してください */
 
+.header-right {
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
 /* header-rightクラスにhoverしたときのCSSを指定してください */
+
+.header-right:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
