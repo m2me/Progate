@@ -87,6 +87,7 @@ header {
   float: right;
   background-color: rgba(255, 255, 255, 0.3);
   /* transitionを指定してください */
+  transition: all 0.5s;
 }
 
 .header-right:hover {
@@ -94,3 +95,10 @@ header {
 }
 
 /* header-rightの中の<a>のCSSを指定してください */
+
+.header-right a {
+  display: block;
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+}
