@@ -117,3 +117,8 @@ header {
 }
 
 /* lessonクラスのCSSを指定してください */
+
+.lesson {
+  float: left;
+  width: 25%;
+}
