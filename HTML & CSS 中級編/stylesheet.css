@@ -143,4 +143,13 @@ header {
 
 /* messageのCSSを指定してください */
 
+.message {
+  background-color: #5dca88;
+  padding: 15px 40px;
+}
+
 /* headingの中の<h3>のCSSを指定してください */
+
+.heading h3 {
+  font-weight: normal;
+}
