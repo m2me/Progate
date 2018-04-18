@@ -104,8 +104,7 @@ header {
   height: 500px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
-  /* text-alignをcenterに指定してください */
-    text-align: center;
+  text-align: center;
 }
 
 .heading {
@@ -123,12 +122,10 @@ header {
   width: 25%;
 }
 
-/* lesson-iconクラスのCSSを指定してください */
 .lesson-icon {
   position: relative;
 }
 
-/* lesson-iconの中の<p>のCSSを指定してください */
 .lesson-icon p {
   position: absolute;
   top: 90px;
@@ -136,7 +133,6 @@ header {
   color: white;
 }
 
-/* txt-contentsクラスのCSSを指定してください */
 .txt-contents {
   width: 80%;
   display: inline-block;
@@ -144,3 +140,7 @@ header {
   font-size: 12px;
   color: #b3aeb5;
 }
+
+/* messageのCSSを指定してください */
+
+/* headingの中の<h3>のCSSを指定してください */
