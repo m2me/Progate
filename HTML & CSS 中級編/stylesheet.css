@@ -141,7 +141,9 @@ header {
   color: #b3aeb5;
 }
 
-/* message-wrapperクラスのCSSを指定してください */
+.heading h3 {
+  font-weight: normal;
+}
 
 .message-wrapper {
   border-bottom: 1px solid #eee;
@@ -150,14 +152,10 @@ header {
 }
 
 .message {
-  background-color: #5dca88;
   padding: 15px 40px;
-  /* カーソルの形をpointerにしてください */
+  background-color: #5dca88;
   cursor: pointer;
-  /* box-shadowをつけてください */
   box-shadow: 0 7px #1a7940;
 }
 
-.heading h3 {
-  font-weight: normal;
-}
+/* messageクラスがクリックされているときのCSSを指定してください */
