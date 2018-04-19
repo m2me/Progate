@@ -143,11 +143,19 @@ header {
 
 /* message-wrapperクラスのCSSを指定してください */
 
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
 .message {
   background-color: #5dca88;
   padding: 15px 40px;
   /* カーソルの形をpointerにしてください */
+  cursor: pointer;
   /* box-shadowをつけてください */
+  box-shadow: 0 7px #1a7940;
 }
 
 .heading h3 {
