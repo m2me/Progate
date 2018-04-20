@@ -166,6 +166,19 @@ header {
 
 /* <footer>の中の<img>のCSSを指定してください */
 
+footer img {
+  width: 125px;
+}
+
 /* <footer>の中の<p>のCSSを指定してください */
 
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
 /* <footer>のCSSを指定してください */
+
+footer {
+  padding-top: 30px;
+}
