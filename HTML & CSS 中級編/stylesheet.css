@@ -72,6 +72,8 @@ header {
   height: 65px;
   width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
+  /* positionプロパティをfixedに、topを0に指定してください */
+  /* z-indexを10に指定してください */
 }
 
 .logo {
@@ -164,20 +166,14 @@ header {
   box-shadow: none;
 }
 
-/* <footer>の中の<img>のCSSを指定してください */
-
 footer img {
   width: 125px;
 }
-
-/* <footer>の中の<p>のCSSを指定してください */
 
 footer p {
   color: #b3aeb5;
   font-size: 12px;
 }
-
-/* <footer>のCSSを指定してください */
 
 footer {
   padding-top: 30px;
