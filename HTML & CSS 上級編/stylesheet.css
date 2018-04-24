@@ -32,6 +32,18 @@
 
 /* ブレイクポイントをmax-width: 1000pxに指定してください */
 
+@media (max-width: 1000px) {
+  .item {
+    width: 50%;
+  }
+}
+
 /* スマートフォン向けレイアウト */
 
 /* ブレイクポイントをmax-width: 670pxに指定してください */
+
+@media (max-width: 670px) {
+  .item {
+    width: 100%;
+  }
+}
