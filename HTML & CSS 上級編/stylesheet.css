@@ -1,5 +1,9 @@
 /* すべての要素に対して box-sizing: border-box; を指定してください */
 
+* {
+  box-sizing: border-box;
+}
+
 .container {
   margin: 20px;
 }
@@ -8,6 +12,7 @@
   width: 25%;
   float: left;
   /* 左右にpaddingを15pxずつ追加してください */
+  padding: 0px 15px;
 }
 
 .item-box {
