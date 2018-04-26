@@ -17,6 +17,16 @@
     text-align: center;
   }
   /* .btnのwidthを100%に指定してください */
+  .btn {
+    width: 100%;
+  }
   /* .facebookにmargin-bottom: 10px;を追加してください */
+  .facebook {
+    margin-bottom: 10px;
+  }
   /* .top-wrapperの中身を左寄せに、padding-topを130pxに指定してください */
+  .top-wrapper {
+    text-align: left;
+    padding-top: 130px;
+  }
 }
