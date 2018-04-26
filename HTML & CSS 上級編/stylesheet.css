@@ -11,8 +11,6 @@ a {
   text-decoration: none;
 }
 
-/* clearクラスにfloatを解除するためのCSSを記述してください */
-
 .clear {
   clear: left;
 }
@@ -117,7 +115,6 @@ header {
 }
 
 .lesson-wrapper {
-  /* heightを削除してください */
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
