@@ -117,6 +117,15 @@ header {
 
 /* menu-iconのCSSを貼り付けてください */
 
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  /* displayをnoneに指定してください */
+  display: none;
+}
+
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
